@@ -7,5 +7,21 @@
 
 # Libros para comenzar 
 
-Título | Descripción |
-|------|-------------|
+|Título | Descripción |
+|-------|-------------|
+
+
+# Recursos interactivos para aprender Machine Learning
+
+|Página | Descripción |
+|-------|-------------|
+
+
+# Artículos de interés
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
