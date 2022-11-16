@@ -11,7 +11,7 @@
 |-------|-------------|
 
 
-# Recursos interactivos para aprender Machine Learning
+# Recursos interactivos para aprender Machine Learning y Deep Learning
 
 |Página | Descripción |
 |-------|-------------|
