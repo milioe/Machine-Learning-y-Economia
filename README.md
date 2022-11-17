@@ -1,14 +1,18 @@
 # Machine Learning y Economia
 
 
+¡Bienvenido al repositorio de la conferencia!
+
+Acá encontrarás el código y los recursos expuestos (Estaremos actualizando esta página constantemente 😉)
+
+
+* [Diapositivas](https://github.com/milioe/Machine-Learning-y-Economia/blob/main/IMEF_MLEco.pdf)
+
+
+🧠 **NOTA**: Si te interesa aprender sobre Machine Learning, Programación, bases de datos, o TI en general, te recomendamos entrar a [Instuto Human Delta](https://institutohd.mx/), donde actualmente se imparten cursos de python, deep learning y data warehouse
 
 
 
-
-# Libros para comenzar 
-
-|Título | Descripción |
-|-------|-------------|
 
 
 # Recursos interactivos para aprender Machine Learning y Deep Learning
